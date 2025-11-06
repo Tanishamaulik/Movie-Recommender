@@ -16,7 +16,3 @@ The app uses a combination of API-driven data and user interaction history to de
 - **Provider / Riverpod / Bloc** (state management, optional)
 - **Git & GitHub** for version control
 
-## 💡 Getting Started
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/yourusername/movie-recommender-app.git
